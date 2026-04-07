@@ -1,5 +1,7 @@
 # Awesome Persona Skills
 
+[English](./README_EN.md) | 简体中文
+
 > 同事.skill、老板.skill、前任.skill、自己.skill、永生.skill、女娲.skill……  
 > **万物皆可 skill**
 
