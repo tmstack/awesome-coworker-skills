@@ -39,6 +39,8 @@
 | 户晨风.skill | 用"购买力挑战"创作者户晨风的视角，帮你看消费选择、城市定居和个人发展 | [Janlaywss/hu-chenfeng-skill](https://github.com/Janlaywss/hu-chenfeng-skill) |
 | 饕餮.skill | 把优秀的 Skill 喂给饕餮，让你的 Skill 自己进化。 | [binggandata/bggg-skill-taotie](https://github.com/binggandata/bggg-skill-taotie) |
 | 月老.skill | 赛博月老，用中华传统术数帮你算姻缘 | [Ming-H/yinyuan-skills](https://github.com/Ming-H/yinyuan-skills) |
+| 特朗普.skill | 谈判/权力/传播/行为预判 | [alchaincyf/trump-skill](https://github.com/alchaincyf/trump-skill) |
+| 张一鸣.skill | 产品/组织/全球化/人才 | [alchaincyf/zhang-yiming-skill](https://github.com/alchaincyf/zhang-yiming-skill) |
 
 ---
 
