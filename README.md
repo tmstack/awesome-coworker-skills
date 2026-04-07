@@ -35,9 +35,10 @@
 | 塔勒布.skill | 风险/反脆弱/不确定性 | [alchaincyf/taleb-skill](https://github.com/alchaincyf/taleb-skill) |
 | 张雪峰.skill | 教育/职业规划/阶层流动 | [alchaincyf/zhangxuefeng-skill](https://github.com/alchaincyf/zhangxuefeng-skill) |
 | X导师.skill | 格式化是你能对写作做的最简单的10倍提升 | [alchaincyf/x-mentor-skill](https://github.com/alchaincyf/x-mentor-skill) |
-| 佛教大师.skills | 依据历代汉传祖师大德的教学风格，通达 AI 学习伙伴 | [xr843/Master-skill](https://github.com/xr843/Master-skill) |
+| 佛教大师.skill | 依据历代汉传祖师大德的教学风格，通达 AI 学习伙伴 | [xr843/Master-skill](https://github.com/xr843/Master-skill) |
 | 户晨风.skill | 用"购买力挑战"创作者户晨风的视角，帮你看消费选择、城市定居和个人发展 | [Janlaywss/hu-chenfeng-skill](https://github.com/Janlaywss/hu-chenfeng-skill) |
 | 饕餮.skill | 把优秀的 Skill 喂给饕餮，让你的 Skill 自己进化。 | [binggandata/bggg-skill-taotie](https://github.com/binggandata/bggg-skill-taotie) |
+| 月老.skill | 赛博月老，用中华传统术数帮你算姻缘 | [Ming-H/yinyuan-skills](https://github.com/Ming-H/yinyuan-skills) |
 
 ---
 
