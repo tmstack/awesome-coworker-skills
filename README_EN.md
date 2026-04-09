@@ -54,11 +54,11 @@ Don't just steam buns to prove a point — while you're at it, distill the peopl
 | Feynman.skill | Learning/Teaching/Scientific Thinking | [alchaincyf/feynman-skill](https://github.com/alchaincyf/feynman-skill) |
 | Naval.skill | Wealth/Leverage/Life Philosophy | [alchaincyf/naval-skill](https://github.com/alchaincyf/naval-skill) |
 | Taleb.skill | Risk/Antifragility/Uncertainty | [alchaincyf/taleb-skill](https://github.com/alchaincyf/taleb-skill) |
-| ZhangXuefeng.skill | Education/Career Planning/Social Mobility | [alchaincyf/zhangxuefeng-skill](https://github.com/alchaincyf/zhangxuefeng-skill) |
-| HuChenfeng.skill | Use creator Hu Chenfeng's "Purchasing Power Challenge" perspective to help you see consumption choices, city settlement, and personal development | [Janlaywss/hu-chenfeng-skill](https://github.com/Janlaywss/hu-chenfeng-skill) |
 | Trump.skill | Negotiation/Power/Communication/Behavior Prediction | [alchaincyf/trump-skill](https://github.com/alchaincyf/trump-skill) |
 | ZhangYiming.skill | Product/Organization/Globalization/Talent | [alchaincyf/zhang-yiming-skill](https://github.com/alchaincyf/zhang-yiming-skill) |
 | FengGe.skill | Bilibili documentary creator Feng Wangming Tianya's (Zhou Lifeng) cognitive operating system | [Walshyu/fengge-skill](https://github.com/Walshyu/fengge-skill) |
+| ZhangXuefeng.skill | Education/Career Planning/Social Mobility | [alchaincyf/zhangxuefeng-skill](https://github.com/alchaincyf/zhangxuefeng-skill) |
+| HuChenfeng.skill | Use creator Hu Chenfeng's "Purchasing Power Challenge" perspective to help you see consumption choices, city settlement, and personal development | [Janlaywss/hu-chenfeng-skill](https://github.com/Janlaywss/hu-chenfeng-skill) |
 
 ### 🙏 Traditional Culture & Philosophy
 
