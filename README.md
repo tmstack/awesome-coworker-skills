@@ -98,7 +98,6 @@
 
 - [内娱.skill](https://github.com/yanghaoraneve/star-skill) - 你的专属追星搭子，永远在线，永远懂你，永远是她的样子
 - [重逢.skill](https://github.com/yangdongchen66-boop/reunion-skill) - 用 AI 的方式，让逝去的亲人以另一种形式继续陪伴
-- [多比.skill](https://github.com/LittleLittleCloud/Dobby) - 你是主人，多比是你的家养小精灵
 
 ### 工具类
 
@@ -109,6 +108,7 @@
 - [图鉴.skill](https://github.com/Aar0nPB/curator-skill) - 跨作者 persona skill 调度器，根据对话意图从 persona skill 列表中智能匹配推荐
 - [SBTI.Skill](https://github.com/whu125/sbti-skill) - 一套把 SBTI 人格原型打包成 Agent Skill 的生成器
 - [ContentWriter.skill](https://github.com/nowork-studio/toprank/blob/main/seo/content-writer/SKILL.md) - 面向 SEO 内容场景的写作 skill，可围绕关键词生成博客、落地页与页面优化稿件
+- [多比.skill](https://github.com/LittleLittleCloud/Dobby) - 一个教AI如何使唤人类多比的skill
 
 
 ---
