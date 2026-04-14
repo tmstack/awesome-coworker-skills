@@ -109,7 +109,7 @@
 - [SBTI.Skill](https://github.com/whu125/sbti-skill) - 一套把 SBTI 人格原型打包成 Agent Skill 的生成器
 - [ContentWriter.skill](https://github.com/nowork-studio/toprank/blob/main/seo/content-writer/SKILL.md) - 面向 SEO 内容场景的写作 skill，可围绕关键词生成博客、落地页与页面优化稿件
 - [多比.skill](https://github.com/LittleLittleCloud/Dobby) - 一个教AI如何使唤人类多比的skill
-
+- [万物皆可角色.skill](https://github.com/MIMIFY/skill_everyone) - 小说、游戏、动漫、影视、自创角色——自动调研或手动喂料 + 心理建模，让ta开口说话陪伴
 
 ---
 
