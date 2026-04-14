@@ -111,6 +111,7 @@
 - [多比.skill](https://github.com/LittleLittleCloud/Dobby) - 一个教AI如何使唤人类多比的skill
 - [万物皆可角色.skill](https://github.com/MIMIFY/skill_everyone) - 小说、游戏、动漫、影视、自创角色——自动调研或手动喂料 + 心理建模，让ta开口说话陪伴
 - [达尔文.skill](https://github.com/alchaincyf/darwin-skill) - 像训练模型一样优化你的 Agent Skills
+- [博主蒸馏器.skill](https://github.com/otter1101/blogger-distiller) - 不靠喂料，主动出击——自动爬取任意小红书博主的全量笔记，蒸馏出可直接安装的创作指南 Skill
 
 ---
 
