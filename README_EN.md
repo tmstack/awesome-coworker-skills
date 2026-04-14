@@ -107,6 +107,8 @@ Don't just steam buns to prove a point — while you're at it, distill the peopl
 - [ContentWriter.skill](https://github.com/nowork-studio/toprank/blob/main/seo/content-writer/SKILL.md) - An SEO writing skill that turns keywords into blog posts, landing pages, and content rewrites
 - [Dobby.skill](https://github.com/LittleLittleCloud/Dobby) - A skill to teach AI how to use human as DOBBY.
 - [Skill_Everyone.skill](https://github.com/MIMIFY/skill_everyone) - Novels, games, anime, films, your own OC — auto-research or manual feed + psychological modeling, let them speak and stay with you.
+- [Darwin.skill](https://github.com/alchaincyf/darwin-skill) - Optimize your Agent Skills the way you train models
+
 ---
 
 ## 🧠 One-Line Philosophy
