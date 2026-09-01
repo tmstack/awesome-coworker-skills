@@ -117,6 +117,7 @@
 - [图鉴.skill](https://github.com/Aar0nPB/curator-skill) - 跨作者 persona skill 调度器，根据对话意图从 persona skill 列表中智能匹配推荐
 - [SBTI.Skill](https://github.com/whu125/sbti-skill) - 一套把 SBTI 人格原型打包成 Agent Skill 的生成器
 - [ContentWriter.skill](https://github.com/nowork-studio/toprank/blob/main/seo/content-writer/SKILL.md) - 面向 SEO 内容场景的写作 skill，可围绕关键词生成博客、落地页与页面优化稿件
+- [汇报.skill](https://github.com/Luious-LYH/huibao-skill) - 别让做过的事最后只剩一句“已完成”：把零散材料按你的语气，写成适合不同读者的日报、周报和阶段汇报
 - [多比.skill](https://github.com/LittleLittleCloud/Dobby) - 一个教AI如何使唤人类多比的skill
 - [大案牍库.skill](https://github.com/LittleLittleCloud/The-Grand-Archive/tree/main/skills/dak) - 专为 AI 设计的新闻档案库 Skill，覆盖 30+ 信源，每 30 分钟更新，可搜索、浏览并结构化分析新闻素材
 - [万物皆可角色.skill](https://github.com/MIMIFY/skill_everyone) - 小说、游戏、动漫、影视、自创角色——自动调研或手动喂料 + 心理建模，让ta开口说话陪伴
